@@ -1,5 +1,1 @@
-Web ini masih dalam masa Develop
-
-
-
-Baca Note di dalam Program !!
+E-commerce sederhana mengunakan ci 4
